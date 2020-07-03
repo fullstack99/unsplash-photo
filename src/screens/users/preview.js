@@ -42,17 +42,6 @@ const styles = StyleSheet.create({
     width: width,
     height: height,
   },
-  userInfo: {
-    alignItems: 'center',
-    margin: 20,
-  },
-  contentContainerStyle: {
-    alignItems: 'center',
-    marginTop: 20,
-  },
-  input: {
-    alignItems: 'center',
-  },
 });
 
 export default PhotoScreen;
